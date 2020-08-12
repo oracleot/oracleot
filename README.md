@@ -1,6 +1,6 @@
 ### Hi, nerds 👋
 
-I make things happen on the Frontend. Currently working [@talentup](https://github.com/talentup) on a project using React. I mentor folks interested in frontend development at MentorCruise.
+I make things happen on the Frontend. Currently working [@talentup](https://github.com/talentup) on a project using React. I mentor folks interested in frontend development at MentorCruise. I also mentor students at [Microverse](https://github.com/microverseinc).
 
 When I'm not coding, I play computer games, take my dog for a walk or solve algorithms
 
