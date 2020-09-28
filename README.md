@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-%2347A1F2)](https://twitter.com/doduronbi)
 [![Resume Badge](https://img.shields.io/badge/-Resume-%23333)](https://docs.google.com/document/d/1zhaTDfRFo71sz9bapEFUBQOw2indEVTpr4sLARel0W8/edit#)
 
-#### A little more about me (in code :-D)
+#### A little more about me
 
 ```javascript
 const damilolaOduronbi = {
