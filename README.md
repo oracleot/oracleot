@@ -7,9 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-%2347A1F2)](https://twitter.com/doduronbi)
 [![Resume Badge](https://img.shields.io/badge/-Resume-%23333)](https://docs.google.com/document/d/1zhaTDfRFo71sz9bapEFUBQOw2indEVTpr4sLARel0W8/edit#)
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=oracleot&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+[!CoderRankSummary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=oracleot&badges=3&show-avatar=true&style=--header-bg-color:%23000)
 
 #### A little more about me
 
