@@ -26,5 +26,4 @@ const damilolaOduronbi = {
 }
 ```
 
-Building [@talentup](https://github.com/talentup)   
 Mentoring junior devs [@mentorcruise](https://mentorcruise.com/) and students [@microverse](https://github.com/microverseinc)
