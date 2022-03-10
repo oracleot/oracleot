@@ -26,4 +26,4 @@ const damilolaOduronbi = {
 }
 ```
 
-Mentoring junior devs [@mentorcruise](https://mentorcruise.com/) and students [@microverse](https://github.com/microverseinc)
+Mentoring junior devs [@mentorcruise](https://mentorcruise.com/)
